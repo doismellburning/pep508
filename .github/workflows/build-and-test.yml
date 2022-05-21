@@ -38,4 +38,4 @@ jobs:
 
     - name: Test
       run: |
-        pipenv run python setup.py test
+        pipenv run python test/canonical.py
