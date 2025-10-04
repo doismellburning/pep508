@@ -1,3 +1,3 @@
 # pep508
 
-This is an implementation of [PEP 508 -- Dependency specification for Python Software Packages](https://www.python.org/dev/peps/pep-0508/).
+This is an "implementation" of [PEP 508 -- Dependency specification for Python Software Packages](https://www.python.org/dev/peps/pep-0508/) as a Python string, for use with a parser like [Parsley](https://github.com/pyga/parsley).
